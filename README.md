@@ -1,5 +1,5 @@
 # Communication Patterns on GitHub
-Research on Communication Patterns on GitHub as a part of a project in HSE SPb course. Currently in progress :octocat:
+Research on Communication Patterns on GitHub as a part of a project at HSE SPb. Currently in progress :octocat:
 
 ---
 ## Plan
