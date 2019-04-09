@@ -1,0 +1,21 @@
+,full_name,name,description,owner,language,forks_count,stargazers_count,watchers_count,open_issues_count,topics
+0,Microsoft/vscode,vscode,Visual Studio Code,Microsoft,TypeScript,9843,73093,73093,5438,"['editor', 'electron', 'visual-studio-code', 'typescript', 'microsoft']"
+1,facebook/react-native,react-native,A framework for building native apps with React.,facebook,JavaScript,16914,75886,75886,459,[]
+2,tensorflow/tensorflow,tensorflow,An Open Source Machine Learning Framework for Everyone,tensorflow,C++,73613,125056,125056,2431,"['tensorflow', 'machine-learning', 'python', 'deep-learning', 'deep-neural-networks', 'neural-network', 'ml', 'distributed']"
+3,angular/angular-cli,angular-cli,CLI tool for Angular,angular,TypeScript,6342,21391,21391,697,"['angular', 'cli', 'angular-cli', 'typescript']"
+4,MicrosoftDocs/azure-docs,azure-docs,Open source documentation of Microsoft Azure,MicrosoftDocs,PowerShell,6841,2410,2410,2032,[]
+5,angular/angular,angular,One framework. Mobile & desktop.,angular,TypeScript,12448,46954,46954,2703,"['angular', 'typescript', 'web', 'javascript', 'pwa', 'web-framework', 'web-performance']"
+6,ansible/ansible,ansible,"Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/",ansible,Python,15027,36379,36379,5556,"['python', 'ansible']"
+7,kubernetes/kubernetes,kubernetes,Production-Grade Container Scheduling and Management,kubernetes,Go,17558,50857,50857,3149,"['kubernetes', 'go', 'cncf', 'containers']"
+8,npm/npm,npm,This repository is moving to: https://github.com/npm/cli,npm,,3161,17131,17131,2166,[]
+9,DefinitelyTyped/DefinitelyTyped,DefinitelyTyped,The repository for high quality TypeScript type definitions.,DefinitelyTyped,TypeScript,17088,21452,21452,2779,"['typescript', 'definition', 'dts', 'types', 'typings', 'typescript-definitions']"
+10,MicrosoftDocs/azure-docs,azure-docs,Open source documentation of Microsoft Azure,MicrosoftDocs,PowerShell,6841,2410,2410,2032,[]
+11,pytorch/pytorch,pytorch,Tensors and Dynamic neural networks in Python  with strong GPU acceleration,pytorch,C++,6320,26701,26701,2855,"['neural-network', 'autograd', 'gpu', 'numpy', 'deep-learning', 'tensor', 'python']"
+12,godotengine/godot,godot,Godot Engine – Multi-platform 2D and 3D game engine,godotengine,C++,4169,21297,21297,4973,"['game-engine', 'godot', 'godotengine', 'open-source', 'multi-platform', 'gamedev']"
+13,nuxt/nuxt.js,nuxt.js,The Vue.js Framework,nuxt,JavaScript,1636,19332,19332,138,"['framework', 'isomorphic', 'universal', 'vue', 'ssr', 'nuxt', 'web-app', 'vuex', 'vue-router', 'server-rendering']"
+14,ethereum/go-ethereum,go-ethereum,Official Go implementation of the Ethereum protocol,ethereum,Go,8183,23024,23024,693,"['go', 'blockchain', 'ethereum', 'p2p', 'geth']"
+15,wix/react-native-navigation,react-native-navigation,A complete native navigation solution for React Native,wix,Java,2165,10013,10013,164,"['react-native', 'navigation', 'navigator', 'react-native-navigation']"
+16,spyder-ide/spyder,spyder,Official repository for Spyder - The Scientific Python Development Environment,spyder-ide,Python,871,4277,4277,727,"['spyder', 'python', 'pyqt5', 'anaconda', 'anaconda-distribution', 'winpython', 'qt']"
+17,tensorflow/models,models,Models and examples built with TensorFlow,tensorflow,Python,31295,50979,50979,1541,[]
+18,home-assistant/home-assistant,home-assistant,:house_with_garden: Open source home automation that puts local control and privacy first,home-assistant,Python,6563,22710,22710,1093,"['python', 'home-automation', 'iot', 'internet-of-things', 'mqtt', 'raspberry-pi', 'asyncio']"
+19,MarlinFirmware/Marlin,Marlin,Optimized firmware for RepRap 3D printers based on the Arduino platform.,MarlinFirmware,C,6916,5218,5218,734,"['reprap', 'arduino', '3d-printing', 'firmware', 'avr', 'atmel', 'hacktoberfest']"
