@@ -1,5 +1,5 @@
-# Communication Patterns & Newcomers on GitHub
-Research on Communication Patterns & Newcomers on GitHub as a part of a project at HSE SPb. Currently in progress :octocat:
+# Analysis of Newcomers Activity in Communicative Posts on GitHub
+Research on newcomers activity in communicative posts on GitHub as a part of a project at HSE SPb. Currently in progress :octocat:
 
 ---
 ## Plan
