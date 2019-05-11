@@ -31,18 +31,26 @@ Date: 28/04/2019
 Data **about comments** for issues and pull requests.  
 Date: 25/04/2019 to 30/04/2019
 
-1. **repo_author** - Repository author *(company name)*
-2. **repo_title** - Repository title
-3. **issue_title** - Issue/PR title
-4. **issue_number** - Issue number
-5. **state** - State
-6. **rev_or_ass** - Reviewers/Assignees
-7. **labels** - Labels
-8. **created_at** - Created at
-9. **closed_at** - Who closed the issue/PR and when *(if so)*
-10. **num_of_participants** - Number of participants
-11. **comments** - Comments. Includes the user's status *(collaborator/author/owner/member)*, user login, date, comment
-12. **reactions** - Reactions
+1. **repo_author** - Repository author *(company name)*  
+2. **repo_title** - Repository title  
+3. **issue_title** - Issue/PR title  
+4. **issue_number** - Issue number   
+5. **state** - State  
+6. **rev_or_ass** - Reviewers/Assignees  
+7. **labels** - Labels  
+8. **created_at** - Created at  
+9. **num_of_participants** - Number of participants  
+10. **comment_number** - Issue's comment number *(i.e. 1st, 2nd..;c omment_number==1 --> issue body)*  
+11. **reactions** - Reactions  
+12. **comment_date** - date of comment  
+13. **contributor** - user's status. True/False. 
+14. **author** - user's status. True/False. 
+15. **member** - user's status. True/False.
+16. **collaborator** - user's status. True/False.  
+17. **login** - commentator's login  
+18. **closed_by** - who closed an issue/PR *(if so)*  
+20. **closed_at** - Closed at  
+21. **comment_body** - text of comment   
 
 
 
